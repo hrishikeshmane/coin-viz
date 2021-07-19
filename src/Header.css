@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  background-color: rgba(239, 243, 243, 0.986);
+  height: 45px;
+  border-radius: 10px;
+  margin-bottom: 50px;
+  justify-content: space-around;
+}
+
+.header > h3 {
+  margin: 10px;
+  margin-top: 7px;
+  color: #646464ce;
+  text-shadow: 0px 0px 0.7px #1f1e1ed2;
+}
+
+.header > h3 > span {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}

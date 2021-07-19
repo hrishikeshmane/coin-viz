@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  background-color: white;
+}
+
+.chart {
+  flex: 0.5;
+  flex-grow: 1;
+  background-color: black;
+  padding: 10px;
+  color: white;
+}

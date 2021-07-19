@@ -1,0 +1,19 @@
+.sidebar {
+  flex: 0.25;
+  background-color: #1b1b1b;
+  max-width: 300px;
+  min-width: 100px;
+  /* overflow-y: scroll; */
+  /* height: 100vh; */
+}
+
+.sidebar > h1 {
+  color: white;
+  padding: 5px 15px;
+}
+
+.sidebar > hr {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
